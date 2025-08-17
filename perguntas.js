@@ -1,0 +1,10 @@
+criaCartao("Filmes Clássicos", "Em que ano foi lançado 'O Poderoso Chefão'?", "1972");
+criaCartao("Animação", "Qual é o nome do leão protagonista de 'O Rei Leão'?", "Simba");
+criaCartao("Ficção Científica", "Qual é o nome da nave de 'Star Wars' pilotada por Han Solo?", "Millennium Falcon");
+criaCartao("Ação", "Quem interpretou John Wick?", "Keanu Reeves");
+criaCartao("Comédia", "Qual ator estrelou 'O Máskara'?", "Jim Carrey");
+criaCartao("Drama", "Quem dirigiu 'Titanic'?", "James Cameron");
+criaCartao("Musical", "Em 'La La Land', qual o instrumento tocado pelo personagem de Ryan Gosling?", "Piano");
+criaCartao("Heróis", "Qual é o verdadeiro nome do Homem de Ferro?", "Tony Stark");
+criaCartao("Suspense", "Qual filme famoso tem a frase 'Eu vejo pessoas mortas'?", "O Sexto Sentido");
+criaCartao("Fantasia", "Qual é o nome da escola de magia de Harry Potter?", "Hogwarts");
